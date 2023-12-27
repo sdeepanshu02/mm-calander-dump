@@ -1,0 +1,1161 @@
+	
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Date iCal//NONSGML kigkonsult.se iCalcreator 2.20.2//
+METHOD:PUBLISH
+X-WR-CALNAME;VALUE=TEXT:Holiday Calendar
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+DTSTART:19451015T000000
+TZOFFSETFROM:+0630
+TZOFFSETTO:+0530
+TZNAME:IST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:calendar.1600456.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T051116Z
+DESCRIPTION:Republic Day (G)
+DTSTART;TZID=Asia/Kolkata:20230126T000000
+DTEND;TZID=Asia/Kolkata:20230126T000000
+LAST-MODIFIED:20220620T051116Z
+SUMMARY:Republic Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/republic-day-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600458.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T051232Z
+DESCRIPTION:Holi (G)
+DTSTART;TZID=Asia/Kolkata:20230308T000000
+DTEND;TZID=Asia/Kolkata:20230308T000000
+LAST-MODIFIED:20220620T051232Z
+SUMMARY:Holi (G)
+URL;TYPE=URI:https://www.india.gov.in/content/holi-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600460.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T051851Z
+DESCRIPTION:Ram Navami (G)
+DTSTART;TZID=Asia/Kolkata:20230330T000000
+DTEND;TZID=Asia/Kolkata:20230330T000000
+LAST-MODIFIED:20220620T051851Z
+SUMMARY:Ram Navami (G)
+URL;TYPE=URI:https://www.india.gov.in/content/ram-navami-10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600462.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T052013Z
+DESCRIPTION:Mahavir Jayanti (G)
+DTSTART;TZID=Asia/Kolkata:20230404T000000
+DTEND;TZID=Asia/Kolkata:20230404T000000
+LAST-MODIFIED:20220620T052013Z
+SUMMARY:Mahavir Jayanti (G)
+URL;TYPE=URI:https://www.india.gov.in/content/mahavir-jayanti-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600464.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T052225Z
+DESCRIPTION:Good Friday (G)
+DTSTART;TZID=Asia/Kolkata:20230407T000000
+DTEND;TZID=Asia/Kolkata:20230407T000000
+LAST-MODIFIED:20220620T052225Z
+SUMMARY:Good Friday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/good-friday-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600466.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T052409Z
+DESCRIPTION:Id-ul-Fitr (G)
+DTSTART;TZID=Asia/Kolkata:20230422T000000
+DTEND;TZID=Asia/Kolkata:20230422T000000
+LAST-MODIFIED:20220620T052409Z
+SUMMARY:Id-ul-Fitr (G)
+URL;TYPE=URI:https://www.india.gov.in/content/id-ul-fitr-6
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600468.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T052600Z
+DESCRIPTION:Buddha Purnima (G)
+DTSTART;TZID=Asia/Kolkata:20230505T000000
+DTEND;TZID=Asia/Kolkata:20230505T000000
+LAST-MODIFIED:20220620T052600Z
+SUMMARY:Buddha Purnima (G)
+URL;TYPE=URI:https://www.india.gov.in/content/buddha-purnima-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600470.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T053438Z
+DESCRIPTION:Id-ul-Zuha (Bakrid) (G)
+DTSTART;TZID=Asia/Kolkata:20230629T000000
+DTEND;TZID=Asia/Kolkata:20230629T000000
+LAST-MODIFIED:20220620T053438Z
+SUMMARY:Id-ul-Zuha (Bakrid) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/id-ul-zuha-bakrid-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600472.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T053601Z
+DESCRIPTION:Muharram (G)
+DTSTART;TZID=Asia/Kolkata:20230729T000000
+DTEND;TZID=Asia/Kolkata:20230729T000000
+LAST-MODIFIED:20220620T053601Z
+SUMMARY:Muharram (G)
+URL;TYPE=URI:https://www.india.gov.in/content/muharram-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600474.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T054058Z
+DESCRIPTION:Independence Day (G)
+DTSTART;TZID=Asia/Kolkata:20230815T000000
+DTEND;TZID=Asia/Kolkata:20230815T000000
+LAST-MODIFIED:20220620T054058Z
+SUMMARY:Independence Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/independence-day-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600476.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T054238Z
+DESCRIPTION:Janmashtami (Vaishnva) (G)
+DTSTART;TZID=Asia/Kolkata:20230907T000000
+DTEND;TZID=Asia/Kolkata:20230907T000000
+LAST-MODIFIED:20220620T054238Z
+SUMMARY:Janmashtami (Vaishnva) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/janmashtami-vaishnva
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600478.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T054402Z
+DESCRIPTION:Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)
+DTSTART;TZID=Asia/Kolkata:20230928T000000
+DTEND;TZID=Asia/Kolkata:20230928T000000
+LAST-MODIFIED:20220620T054402Z
+SUMMARY:Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/milad-un-nabi-or-id-e-milad-b
+ irthday-prophet-mohammad-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600481.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T054630Z
+DESCRIPTION:Mahatma Gandhi's Birthday (G)
+DTSTART;TZID=Asia/Kolkata:20231002T000000
+DTEND;TZID=Asia/Kolkata:20231002T000000
+LAST-MODIFIED:20220620T054630Z
+SUMMARY:Mahatma Gandhi's Birthday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/mahatma-gandhis-birthday-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600483.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T054731Z
+DESCRIPTION:Dussehra (G)
+DTSTART;TZID=Asia/Kolkata:20231024T000000
+DTEND;TZID=Asia/Kolkata:20231024T000000
+LAST-MODIFIED:20220620T054731Z
+SUMMARY:Dussehra (G)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600485.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T055224Z
+DESCRIPTION:Diwali (Deepawali) (G)
+DTSTART;TZID=Asia/Kolkata:20231112T000000
+DTEND;TZID=Asia/Kolkata:20231112T000000
+LAST-MODIFIED:20220620T055224Z
+SUMMARY:Diwali (Deepawali) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/diwali-deepawali-3
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600487.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T055332Z
+DESCRIPTION:Guru Nanak's Birthday (G)
+DTSTART;TZID=Asia/Kolkata:20231127T000000
+DTEND;TZID=Asia/Kolkata:20231127T000000
+LAST-MODIFIED:20220620T055332Z
+SUMMARY:Guru Nanak's Birthday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-nanaks-birthday-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600489.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T055450Z
+DESCRIPTION:Christmas Day (G)
+DTSTART;TZID=Asia/Kolkata:20231225T000000
+DTEND;TZID=Asia/Kolkata:20231225T000000
+LAST-MODIFIED:20220620T055450Z
+SUMMARY:Christmas Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/christmas-day-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600491.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T055930Z
+DESCRIPTION:New Year's Day (R)
+DTSTART;TZID=Asia/Kolkata:20230101T000000
+DTEND;TZID=Asia/Kolkata:20230101T000000
+LAST-MODIFIED:20220620T055930Z
+SUMMARY:New Year's Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/new-years-day-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600494.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T060258Z
+DESCRIPTION:Makar Sankranti/Magha Bihu (R)
+DTSTART;TZID=Asia/Kolkata:20230114T000000
+DTEND;TZID=Asia/Kolkata:20230114T000000
+LAST-MODIFIED:20220620T060258Z
+SUMMARY:Makar Sankranti/Magha Bihu (R)
+URL;TYPE=URI:https://www.india.gov.in/content/makar-sankrantimagha-bihu
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600496.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T060413Z
+DESCRIPTION:Pongal (R)
+DTSTART;TZID=Asia/Kolkata:20230115T000000
+DTEND;TZID=Asia/Kolkata:20230115T000000
+LAST-MODIFIED:20220620T060413Z
+SUMMARY:Pongal (R)
+URL;TYPE=URI:https://www.india.gov.in/content/pongal-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600498.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T060541Z
+DESCRIPTION:Basant Panchami/Sri Panchami (R)
+DTSTART;TZID=Asia/Kolkata:20230126T000000
+DTEND;TZID=Asia/Kolkata:20230126T000000
+LAST-MODIFIED:20220620T060541Z
+SUMMARY:Basant Panchami/Sri Panchami (R)
+URL;TYPE=URI:https://www.india.gov.in/content/basant-panchamisri-panchami-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600501.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T080805Z
+DESCRIPTION:Hazarat Ali's Birthday\, Guru Ravidas's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20230205T000000
+DTEND;TZID=Asia/Kolkata:20230205T000000
+LAST-MODIFIED:20220620T080805Z
+SUMMARY:Hazarat Ali's Birthday\, Guru Ravidas's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/hazarat-alis-birthday-guru-ra
+ vidass-birthday
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600503.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T081023Z
+DESCRIPTION:Swami Dayananda Saraswati Jayanti (R)
+DTSTART;TZID=Asia/Kolkata:20230215T000000
+DTEND;TZID=Asia/Kolkata:20230215T000000
+LAST-MODIFIED:20220620T081023Z
+SUMMARY:Swami Dayananda Saraswati Jayanti (R)
+URL;TYPE=URI:https://www.india.gov.in/content/swami-dayananda-saraswati-jay
+ anti-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600505.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T081201Z
+DESCRIPTION:Maha Shivaratri (R)
+DTSTART;TZID=Asia/Kolkata:20230218T000000
+DTEND;TZID=Asia/Kolkata:20230218T000000
+LAST-MODIFIED:20220620T081201Z
+SUMMARY:Maha Shivaratri (R)
+URL;TYPE=URI:https://www.india.gov.in/content/maha-shivaratri-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600507.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T081501Z
+DESCRIPTION:Shivaji Jayanti (R)
+DTSTART;TZID=Asia/Kolkata:20230219T000000
+DTEND;TZID=Asia/Kolkata:20230219T000000
+LAST-MODIFIED:20220620T081501Z
+SUMMARY:Shivaji Jayanti (R)
+URL;TYPE=URI:https://www.india.gov.in/content/shivaji-jayanti-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600509.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T081802Z
+DESCRIPTION:Holika Dahan\, Dolyatra (R)
+DTSTART;TZID=Asia/Kolkata:20230307T000000
+DTEND;TZID=Asia/Kolkata:20230307T000000
+LAST-MODIFIED:20220620T081802Z
+SUMMARY:Holika Dahan\, Dolyatra (R)
+URL;TYPE=URI:https://www.india.gov.in/content/holika-dahan-dolyatra-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600511.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T082022Z
+DESCRIPTION:Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)
+DTSTART;TZID=Asia/Kolkata:20230322T000000
+DTEND;TZID=Asia/Kolkata:20230322T000000
+LAST-MODIFIED:20220620T082022Z
+SUMMARY:Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)
+URL;TYPE=URI:https://www.india.gov.in/content/chaitra-sukladi-gudi-padava-u
+ gadi-cheti-chand-1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600513.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T082814Z
+DESCRIPTION:Easter Sunday (R)
+DTSTART;TZID=Asia/Kolkata:20230409T000000
+DTEND;TZID=Asia/Kolkata:20230409T000000
+LAST-MODIFIED:20220620T082814Z
+SUMMARY:Easter Sunday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/easter-sunday-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600515.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T082927Z
+DESCRIPTION:Vaisakhi/Vishu/Meshadi (R)
+DTSTART;TZID=Asia/Kolkata:20230414T000000
+DTEND;TZID=Asia/Kolkata:20230414T000000
+LAST-MODIFIED:20220620T083331Z
+SUMMARY:Vaisakhi/Vishu/Meshadi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/vaisakhivishumeshadi
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600517.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083103Z
+DESCRIPTION:Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R)
+DTSTART;TZID=Asia/Kolkata:20230415T000000
+DTEND;TZID=Asia/Kolkata:20230415T000000
+LAST-MODIFIED:20220620T083103Z
+SUMMARY:Vaisakhadi (Bengal)/ Bahag Bihu (Assam) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/vaisakhadi-bengal-bahag-bihu-
+ assam-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600519.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083215Z
+DESCRIPTION:Jamat-Ul-Vida (R)
+DTSTART;TZID=Asia/Kolkata:20230421T000000
+DTEND;TZID=Asia/Kolkata:20230421T000000
+LAST-MODIFIED:20220620T083215Z
+SUMMARY:Jamat-Ul-Vida (R)
+URL;TYPE=URI:https://www.india.gov.in/content/jamat-ul-vida-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600521.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083529Z
+DESCRIPTION:Guru Rabindranath's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20230509T000000
+DTEND;TZID=Asia/Kolkata:20230509T000000
+LAST-MODIFIED:20220620T083529Z
+SUMMARY:Guru Rabindranath's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-rabindranaths-birthday-1
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600523.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083653Z
+DESCRIPTION:Rath Yatra (R)
+DTSTART;TZID=Asia/Kolkata:20230620T000000
+DTEND;TZID=Asia/Kolkata:20230620T000000
+LAST-MODIFIED:20220620T083653Z
+SUMMARY:Rath Yatra (R)
+URL;TYPE=URI:https://www.india.gov.in/content/rath-yatra-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600525.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083809Z
+DESCRIPTION:Parsi New Year's day/ Nauraj (R)
+DTSTART;TZID=Asia/Kolkata:20230816T000000
+DTEND;TZID=Asia/Kolkata:20230816T000000
+LAST-MODIFIED:20220620T083809Z
+SUMMARY:Parsi New Year's day/ Nauraj (R)
+URL;TYPE=URI:https://www.india.gov.in/content/parsi-new-years-day-nauraj-4
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600527.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T083931Z
+DESCRIPTION:Vinayaka Chaturthi (R)
+DTSTART;TZID=Asia/Kolkata:20230820T000000
+DTEND;TZID=Asia/Kolkata:20230820T000000
+LAST-MODIFIED:20220620T083931Z
+SUMMARY:Vinayaka Chaturthi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/vinayaka-chaturthi-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600529.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T084205Z
+DESCRIPTION:Onam or Thiru Onam Day (R)
+DTSTART;TZID=Asia/Kolkata:20230829T000000
+DTEND;TZID=Asia/Kolkata:20230829T000000
+LAST-MODIFIED:20220620T084205Z
+SUMMARY:Onam or Thiru Onam Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/onam-or-thiru-onam-day-4
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600531.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T084424Z
+DESCRIPTION:Raksha Bandhan (R)
+DTSTART;TZID=Asia/Kolkata:20230830T000000
+DTEND;TZID=Asia/Kolkata:20230830T000000
+LAST-MODIFIED:20220620T084424Z
+SUMMARY:Raksha Bandhan (R)
+URL;TYPE=URI:https://www.india.gov.in/content/raksha-bandhan-10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600534.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T084658Z
+DESCRIPTION:Janmashtami (Smarta) (R)
+DTSTART;TZID=Asia/Kolkata:20230906T000000
+DTEND;TZID=Asia/Kolkata:20230906T000000
+LAST-MODIFIED:20220620T084658Z
+SUMMARY:Janmashtami (Smarta) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/janmashtami-smarta-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600536.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T084857Z
+DESCRIPTION:Ganesh Chaturthi (R)
+DTSTART;TZID=Asia/Kolkata:20230919T000000
+DTEND;TZID=Asia/Kolkata:20230919T000000
+LAST-MODIFIED:20220620T084857Z
+SUMMARY:Ganesh Chaturthi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/ganesh-chaturthi-1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600538.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T085103Z
+DESCRIPTION:Dussehra (Saptami) (R)
+DTSTART;TZID=Asia/Kolkata:20231021T000000
+DTEND;TZID=Asia/Kolkata:20231021T000000
+LAST-MODIFIED:20220620T085103Z
+SUMMARY:Dussehra (Saptami) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-saptami
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600541.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T085222Z
+DESCRIPTION:Dussehra (Maha Ashtami) (R)
+DTSTART;TZID=Asia/Kolkata:20231022T000000
+DTEND;TZID=Asia/Kolkata:20231022T000000
+LAST-MODIFIED:20220620T085222Z
+SUMMARY:Dussehra (Maha Ashtami) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-maha-ashtami-1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600543.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T085329Z
+DESCRIPTION:Dussehra (Maha Navmi) (R)
+DTSTART;TZID=Asia/Kolkata:20231023T000000
+DTEND;TZID=Asia/Kolkata:20231023T000000
+LAST-MODIFIED:20220620T085329Z
+SUMMARY:Dussehra (Maha Navmi) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-maha-navmi-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600545.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T085451Z
+DESCRIPTION:Maharishi Valmiki's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20231028T000000
+DTEND;TZID=Asia/Kolkata:20231028T000000
+LAST-MODIFIED:20220620T085451Z
+SUMMARY:Maharishi Valmiki's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/maharishi-valmikis-birthday-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600547.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090014Z
+DESCRIPTION:Karaka Chaturthi (Karva Chouth) (R)
+DTSTART;TZID=Asia/Kolkata:20231101T000000
+DTEND;TZID=Asia/Kolkata:20231101T000000
+LAST-MODIFIED:20220620T090014Z
+SUMMARY:Karaka Chaturthi (Karva Chouth) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/karaka-chaturthi-karva-chouth
+ -10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600549.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090203Z
+DESCRIPTION:Naraka Chaturdasi (R)
+DTSTART;TZID=Asia/Kolkata:20231112T000000
+DTEND;TZID=Asia/Kolkata:20231112T000000
+LAST-MODIFIED:20220620T090203Z
+SUMMARY:Naraka Chaturdasi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/naraka-chaturdasi-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600551.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090352Z
+DESCRIPTION:Bhai Duj (R)
+DTSTART;TZID=Asia/Kolkata:20231115T000000
+DTEND;TZID=Asia/Kolkata:20231115T000000
+LAST-MODIFIED:20220620T090352Z
+SUMMARY:Bhai Duj (R)
+URL;TYPE=URI:https://www.india.gov.in/content/bhai-duj-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600553.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090517Z
+DESCRIPTION:Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)
+DTSTART;TZID=Asia/Kolkata:20231119T000000
+DTEND;TZID=Asia/Kolkata:20231119T000000
+LAST-MODIFIED:20220620T090517Z
+SUMMARY:Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/pratihar-sashthi-or-surya-sas
+ hthi-chhat-puja-6
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600555.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090746Z
+DESCRIPTION:Guru Teg Bahadur's Martyrdom Day (R)
+DTSTART;TZID=Asia/Kolkata:20231124T000000
+DTEND;TZID=Asia/Kolkata:20231124T000000
+LAST-MODIFIED:20220620T090746Z
+SUMMARY:Guru Teg Bahadur's Martyrdom Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-teg-bahadurs-martyrdom-d
+ ay-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600557.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T090932Z
+DESCRIPTION:Govardhan Puja (R)
+DTSTART;TZID=Asia/Kolkata:20231113T000000
+DTEND;TZID=Asia/Kolkata:20231113T000000
+LAST-MODIFIED:20220620T090932Z
+SUMMARY:Govardhan Puja (R)
+URL;TYPE=URI:https://www.india.gov.in/content/govardhan-puja-10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1600559.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20220620T091119Z
+DESCRIPTION:Christmas Eve (R)
+DTSTART;TZID=Asia/Kolkata:20231224T000000
+DTEND;TZID=Asia/Kolkata:20231224T000000
+LAST-MODIFIED:20220620T091119Z
+SUMMARY:Christmas Eve (R)
+URL;TYPE=URI:https://www.india.gov.in/content/christmas-eve-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1609123.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230411T101508Z
+DESCRIPTION:Birthday of Dr. B. R. Ambedkar (G)
+DTSTART;TZID=Asia/Kolkata:20230414T000000
+DTEND;TZID=Asia/Kolkata:20230414T000000
+LAST-MODIFIED:20230411T101508Z
+SUMMARY:Birthday of Dr. B. R. Ambedkar (G)
+URL;TYPE=URI:https://www.india.gov.in/content/birthday-dr-b-r-ambedkar-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611711.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T092643Z
+DESCRIPTION:Republic Day (G)
+DTSTART;TZID=Asia/Kolkata:20240126T000000
+DTEND;TZID=Asia/Kolkata:20240126T000000
+LAST-MODIFIED:20230706T092643Z
+SUMMARY:Republic Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/republic-day-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611713.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T092829Z
+DESCRIPTION:Holi (G)
+DTSTART;TZID=Asia/Kolkata:20240325T000000
+DTEND;TZID=Asia/Kolkata:20240325T000000
+LAST-MODIFIED:20230706T092829Z
+SUMMARY:Holi (G)
+URL;TYPE=URI:https://www.india.gov.in/content/holi-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611715.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T093230Z
+DESCRIPTION:Good Friday (G)
+DTSTART;TZID=Asia/Kolkata:20240329T000000
+DTEND;TZID=Asia/Kolkata:20240329T000000
+LAST-MODIFIED:20230706T093230Z
+SUMMARY:Good Friday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/good-friday-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611718.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T094459Z
+DESCRIPTION:Id-ul- Fitr (G)
+DTSTART;TZID=Asia/Kolkata:20240411T000000
+DTEND;TZID=Asia/Kolkata:20240411T000000
+LAST-MODIFIED:20230706T094459Z
+SUMMARY:Id-ul- Fitr (G)
+URL;TYPE=URI:https://www.india.gov.in/content/id-ul-fitr-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611720.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T094552Z
+DESCRIPTION:Ram Navami (G)
+DTSTART;TZID=Asia/Kolkata:20240417T000000
+DTEND;TZID=Asia/Kolkata:20240417T000000
+LAST-MODIFIED:20230706T094552Z
+SUMMARY:Ram Navami (G)
+URL;TYPE=URI:https://www.india.gov.in/content/ram-navami-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611723.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T094712Z
+DESCRIPTION:Mahavir Jayanti (G)
+DTSTART;TZID=Asia/Kolkata:20240421T000000
+DTEND;TZID=Asia/Kolkata:20240421T000000
+LAST-MODIFIED:20230706T094712Z
+SUMMARY:Mahavir Jayanti (G)
+URL;TYPE=URI:https://www.india.gov.in/content/mahavir-jayanti-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611725.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T095341Z
+DESCRIPTION:Buddha Purnima (G)
+DTSTART;TZID=Asia/Kolkata:20240523T000000
+DTEND;TZID=Asia/Kolkata:20240523T000000
+LAST-MODIFIED:20230706T095341Z
+SUMMARY:Buddha Purnima (G)
+URL;TYPE=URI:https://www.india.gov.in/content/buddha-purnima-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611727.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T095457Z
+DESCRIPTION:Id-ul-Zuha (Bakrid) (G)
+DTSTART;TZID=Asia/Kolkata:20240617T000000
+DTEND;TZID=Asia/Kolkata:20240617T000000
+LAST-MODIFIED:20230706T095457Z
+SUMMARY:Id-ul-Zuha (Bakrid) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/id-ul-zuha-bakrid-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611729.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T095631Z
+DESCRIPTION:Muharram (G)
+DTSTART;TZID=Asia/Kolkata:20240717T000000
+DTEND;TZID=Asia/Kolkata:20240717T000000
+LAST-MODIFIED:20230706T095631Z
+SUMMARY:Muharram (G)
+URL;TYPE=URI:https://www.india.gov.in/content/muharram-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611732.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T100127Z
+DESCRIPTION:Independence Day (G)
+DTSTART;TZID=Asia/Kolkata:20240815T000000
+DTEND;TZID=Asia/Kolkata:20240815T000000
+LAST-MODIFIED:20230706T100127Z
+SUMMARY:Independence Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/independence-day-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611734.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T100255Z
+DESCRIPTION:Janmashtami (Vaishnva) (G)
+DTSTART;TZID=Asia/Kolkata:20240826T000000
+DTEND;TZID=Asia/Kolkata:20240826T000000
+LAST-MODIFIED:20230706T100255Z
+SUMMARY:Janmashtami (Vaishnva) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/janmashtami-vaishnva-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611737.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T101043Z
+DESCRIPTION:Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)
+DTSTART;TZID=Asia/Kolkata:20240916T000000
+DTEND;TZID=Asia/Kolkata:20240916T000000
+LAST-MODIFIED:20230706T101043Z
+SUMMARY:Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/milad-un-nabi-or-id-e-milad-b
+ irthday-prophet-mohammad-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611739.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T101222Z
+DESCRIPTION:Mahatma Gandhi's Birthday (G)
+DTSTART;TZID=Asia/Kolkata:20241002T000000
+DTEND;TZID=Asia/Kolkata:20241002T000000
+LAST-MODIFIED:20230706T101222Z
+SUMMARY:Mahatma Gandhi's Birthday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/mahatma-gandhis-birthday-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611741.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T101434Z
+DESCRIPTION:Dussehra (G)
+DTSTART;TZID=Asia/Kolkata:20241012T000000
+DTEND;TZID=Asia/Kolkata:20241012T000000
+LAST-MODIFIED:20230706T101434Z
+SUMMARY:Dussehra (G)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611743.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T101542Z
+DESCRIPTION:Diwali (Deepawali) (G)
+DTSTART;TZID=Asia/Kolkata:20241031T000000
+DTEND;TZID=Asia/Kolkata:20241031T000000
+LAST-MODIFIED:20230706T101542Z
+SUMMARY:Diwali (Deepawali) (G)
+URL;TYPE=URI:https://www.india.gov.in/content/diwali-deepawali-4
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611748.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T110508Z
+DESCRIPTION:Guru Nanak's Birthday (G)
+DTSTART;TZID=Asia/Kolkata:20241115T000000
+DTEND;TZID=Asia/Kolkata:20241115T000000
+LAST-MODIFIED:20230706T110508Z
+SUMMARY:Guru Nanak's Birthday (G)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-nanaks-birthday-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611750.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T110619Z
+DESCRIPTION:Christmas Day (G)
+DTSTART;TZID=Asia/Kolkata:20241225T000000
+DTEND;TZID=Asia/Kolkata:20241225T000000
+LAST-MODIFIED:20230706T110619Z
+SUMMARY:Christmas Day (G)
+URL;TYPE=URI:https://www.india.gov.in/content/christmas-day-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611752.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T111336Z
+DESCRIPTION:New Year's Day (R)
+DTSTART;TZID=Asia/Kolkata:20240101T000000
+DTEND;TZID=Asia/Kolkata:20240101T000000
+LAST-MODIFIED:20230706T111511Z
+SUMMARY:New Year's Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/new-years-day-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611754.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T111548Z
+DESCRIPTION:Lohri (R)
+DTSTART;TZID=Asia/Kolkata:20240113T000000
+DTEND;TZID=Asia/Kolkata:20240113T000000
+LAST-MODIFIED:20230706T111548Z
+SUMMARY:Lohri (R)
+URL;TYPE=URI:https://www.india.gov.in/content/lohri-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611756.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T111651Z
+DESCRIPTION:Makar Sankranti (R)
+DTSTART;TZID=Asia/Kolkata:20240114T000000
+DTEND;TZID=Asia/Kolkata:20240114T000000
+LAST-MODIFIED:20230706T111651Z
+SUMMARY:Makar Sankranti (R)
+URL;TYPE=URI:https://www.india.gov.in/content/makar-sankranti-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611758.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T111800Z
+DESCRIPTION:Magha Bihu/ Pongal (R)
+DTSTART;TZID=Asia/Kolkata:20240115T000000
+DTEND;TZID=Asia/Kolkata:20240115T000000
+LAST-MODIFIED:20230706T111800Z
+SUMMARY:Magha Bihu/ Pongal (R)
+URL;TYPE=URI:https://www.india.gov.in/content/magha-bihu-pongal
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611760.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T111914Z
+DESCRIPTION:Guru Gobind Singh's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20240117T000000
+DTEND;TZID=Asia/Kolkata:20240117T000000
+LAST-MODIFIED:20230706T111914Z
+SUMMARY:Guru Gobind Singh's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-gobind-singhs-birthday-6
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611762.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230706T112059Z
+DESCRIPTION:Hazarat Ali's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20240125T000000
+DTEND;TZID=Asia/Kolkata:20240125T000000
+LAST-MODIFIED:20230706T112059Z
+SUMMARY:Hazarat Ali's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/hazarat-alis-birthday-10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611778.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T052334Z
+DESCRIPTION:Basant Panchami / Sri Panchami (R)
+DTSTART;TZID=Asia/Kolkata:20240214T000000
+DTEND;TZID=Asia/Kolkata:20240214T000000
+LAST-MODIFIED:20230707T052334Z
+SUMMARY:Basant Panchami / Sri Panchami (R)
+URL;TYPE=URI:https://www.india.gov.in/content/basant-panchami-sri-panchami-
+ 5
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611780.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T061814Z
+DESCRIPTION:Shivaji Jayanti (R)
+DTSTART;TZID=Asia/Kolkata:20240219T000000
+DTEND;TZID=Asia/Kolkata:20240219T000000
+LAST-MODIFIED:20230707T061814Z
+SUMMARY:Shivaji Jayanti (R)
+URL;TYPE=URI:https://www.india.gov.in/content/shivaji-jayanti-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611782.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T061919Z
+DESCRIPTION:Guru Ravidas's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20240224T000000
+DTEND;TZID=Asia/Kolkata:20240224T000000
+LAST-MODIFIED:20230707T061919Z
+SUMMARY:Guru Ravidas's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-ravidass-birthday-8
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611784.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062030Z
+DESCRIPTION:Swami Dayananda Saraswati Jayanti (R)
+DTSTART;TZID=Asia/Kolkata:20240306T000000
+DTEND;TZID=Asia/Kolkata:20240306T000000
+LAST-MODIFIED:20230707T062030Z
+SUMMARY:Swami Dayananda Saraswati Jayanti (R)
+URL;TYPE=URI:https://www.india.gov.in/content/swami-dayananda-saraswati-jay
+ anti-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611786.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062147Z
+DESCRIPTION:Maha Shivaratri (R)
+DTSTART;TZID=Asia/Kolkata:20240308T000000
+DTEND;TZID=Asia/Kolkata:20240308T000000
+LAST-MODIFIED:20230707T062147Z
+SUMMARY:Maha Shivaratri (R)
+URL;TYPE=URI:https://www.india.gov.in/content/maha-shivaratri-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611788.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062252Z
+DESCRIPTION:Holika Dahan (R)
+DTSTART;TZID=Asia/Kolkata:20240324T000000
+DTEND;TZID=Asia/Kolkata:20240324T000000
+LAST-MODIFIED:20230707T062252Z
+SUMMARY:Holika Dahan (R)
+URL;TYPE=URI:https://www.india.gov.in/content/holika-dahan-3
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611790.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062355Z
+DESCRIPTION:Dolyatra (R)
+DTSTART;TZID=Asia/Kolkata:20240325T000000
+DTEND;TZID=Asia/Kolkata:20240325T000000
+LAST-MODIFIED:20230707T062355Z
+SUMMARY:Dolyatra (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dolyatra-1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611792.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062515Z
+DESCRIPTION:Easter Sunday (R)
+DTSTART;TZID=Asia/Kolkata:20240331T000000
+DTEND;TZID=Asia/Kolkata:20240331T000000
+LAST-MODIFIED:20230707T062515Z
+SUMMARY:Easter Sunday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/easter-sunday-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611794.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T062929Z
+DESCRIPTION:Jamat-Ul-Vida (R)
+DTSTART;TZID=Asia/Kolkata:20240405T000000
+DTEND;TZID=Asia/Kolkata:20240405T000000
+LAST-MODIFIED:20230707T062929Z
+SUMMARY:Jamat-Ul-Vida (R)
+URL;TYPE=URI:https://www.india.gov.in/content/jamat-ul-vida-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611796.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T063037Z
+DESCRIPTION:Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)
+DTSTART;TZID=Asia/Kolkata:20240409T000000
+DTEND;TZID=Asia/Kolkata:20240409T000000
+LAST-MODIFIED:20230707T063037Z
+SUMMARY:Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand (R)
+URL;TYPE=URI:https://www.india.gov.in/content/chaitra-sukladi-gudi-padava-u
+ gadi-cheti-chand-2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611798.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T063240Z
+DESCRIPTION:Vaisakhi/ Vishu (R)
+DTSTART;TZID=Asia/Kolkata:20240413T000000
+DTEND;TZID=Asia/Kolkata:20240413T000000
+LAST-MODIFIED:20230707T063240Z
+SUMMARY:Vaisakhi/ Vishu (R)
+URL;TYPE=URI:https://www.india.gov.in/content/vaisakhi-vishu
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611800.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T063809Z
+DESCRIPTION:Meshadi (Tamil New Year's Day) / Vaisakhadi (Bengal)/ Bahag Bih
+ u (Assam) (R)
+DTSTART;TZID=Asia/Kolkata:20240414T000000
+DTEND;TZID=Asia/Kolkata:20240414T000000
+LAST-MODIFIED:20230707T063809Z
+SUMMARY:Meshadi (Tamil New Year's Day) / Vaisakhadi (Bengal)/ Bahag Bihu (A
+ ssam) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/meshadi-tamil-new-years-day-v
+ aisakhadi-bengal-bahag-bihu-assam
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611802.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T064427Z
+DESCRIPTION:Guru Rabindranath's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20240508T000000
+DTEND;TZID=Asia/Kolkata:20240508T000000
+LAST-MODIFIED:20230707T064427Z
+SUMMARY:Guru Rabindranath's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-rabindranaths-birthday-1
+ 2
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611804.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T064702Z
+DESCRIPTION:Rath Yatra (R)
+DTSTART;TZID=Asia/Kolkata:20240707T000000
+DTEND;TZID=Asia/Kolkata:20240707T000000
+LAST-MODIFIED:20230707T064702Z
+SUMMARY:Rath Yatra (R)
+URL;TYPE=URI:https://www.india.gov.in/content/rath-yatra-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611806.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T065348Z
+DESCRIPTION:Parsi New Year's day / Nauraj (R)
+DTSTART;TZID=Asia/Kolkata:20240815T000000
+DTEND;TZID=Asia/Kolkata:20240815T000000
+LAST-MODIFIED:20230707T065348Z
+SUMMARY:Parsi New Year's day / Nauraj (R)
+URL;TYPE=URI:https://www.india.gov.in/content/parsi-new-years-day-nauraj-5
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611808.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T065502Z
+DESCRIPTION:Raksha Bandhan (R)
+DTSTART;TZID=Asia/Kolkata:20240819T000000
+DTEND;TZID=Asia/Kolkata:20240819T000000
+LAST-MODIFIED:20230707T065502Z
+SUMMARY:Raksha Bandhan (R)
+URL;TYPE=URI:https://www.india.gov.in/content/raksha-bandhan-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611810.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T065748Z
+DESCRIPTION:Ganesh Chaturthi / Vinayaka Chaturthi (R)
+DTSTART;TZID=Asia/Kolkata:20240907T000000
+DTEND;TZID=Asia/Kolkata:20240907T000000
+LAST-MODIFIED:20230707T065748Z
+SUMMARY:Ganesh Chaturthi / Vinayaka Chaturthi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/ganesh-chaturthi-vinayaka-cha
+ turthi-0
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611812.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T065854Z
+DESCRIPTION:Onam or Thiru Onam Day (R)
+DTSTART;TZID=Asia/Kolkata:20240915T000000
+DTEND;TZID=Asia/Kolkata:20240915T000000
+LAST-MODIFIED:20230707T065854Z
+SUMMARY:Onam or Thiru Onam Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/onam-or-thiru-onam-day-5
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611814.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T070619Z
+DESCRIPTION:Dussehra (Maha Saptami) (R)
+DTSTART;TZID=Asia/Kolkata:20241010T000000
+DTEND;TZID=Asia/Kolkata:20241010T000000
+LAST-MODIFIED:20230707T070619Z
+SUMMARY:Dussehra (Maha Saptami) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-maha-saptami-1
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611816.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T070813Z
+DESCRIPTION:Dussehra (Maha Ashtami) / Dussehra (Maha Navmi) (R)
+DTSTART;TZID=Asia/Kolkata:20241011T000000
+DTEND;TZID=Asia/Kolkata:20241011T000000
+LAST-MODIFIED:20230707T070813Z
+SUMMARY:Dussehra (Maha Ashtami) / Dussehra (Maha Navmi) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/dussehra-maha-ashtami-dussehr
+ a-maha-navmi
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611818.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T070923Z
+DESCRIPTION:Maharishi Valmiki's Birthday (R)
+DTSTART;TZID=Asia/Kolkata:20241017T000000
+DTEND;TZID=Asia/Kolkata:20241017T000000
+LAST-MODIFIED:20230707T070923Z
+SUMMARY:Maharishi Valmiki's Birthday (R)
+URL;TYPE=URI:https://www.india.gov.in/content/maharishi-valmikis-birthday-9
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611820.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T071021Z
+DESCRIPTION:Karaka Chaturthi (Karva Chouth) (R)
+DTSTART;TZID=Asia/Kolkata:20241020T000000
+DTEND;TZID=Asia/Kolkata:20241020T000000
+LAST-MODIFIED:20230707T071021Z
+SUMMARY:Karaka Chaturthi (Karva Chouth) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/karaka-chaturthi-karva-chouth
+ -11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611822.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T071121Z
+DESCRIPTION:Naraka Chaturdasi (R)
+DTSTART;TZID=Asia/Kolkata:20241031T000000
+DTEND;TZID=Asia/Kolkata:20241031T000000
+LAST-MODIFIED:20230707T071121Z
+SUMMARY:Naraka Chaturdasi (R)
+URL;TYPE=URI:https://www.india.gov.in/content/naraka-chaturdasi-10
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611826.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T083401Z
+DESCRIPTION:Govardhan Puja (R)
+DTSTART;TZID=Asia/Kolkata:20241102T000000
+DTEND;TZID=Asia/Kolkata:20241102T000000
+LAST-MODIFIED:20230707T083401Z
+SUMMARY:Govardhan Puja (R)
+URL;TYPE=URI:https://www.india.gov.in/content/govardhan-puja-11
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611828.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T083503Z
+DESCRIPTION:Bhai Duj (R)
+DTSTART;TZID=Asia/Kolkata:20241103T000000
+DTEND;TZID=Asia/Kolkata:20241103T000000
+LAST-MODIFIED:20230707T083503Z
+SUMMARY:Bhai Duj (R)
+URL;TYPE=URI:https://www.india.gov.in/content/bhai-duj-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611830.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T083615Z
+DESCRIPTION:Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)
+DTSTART;TZID=Asia/Kolkata:20241107T000000
+DTEND;TZID=Asia/Kolkata:20241107T000000
+LAST-MODIFIED:20230707T083615Z
+SUMMARY:Pratihar Sashthi or Surya Sashthi (Chhat Puja) (R)
+URL;TYPE=URI:https://www.india.gov.in/content/pratihar-sashthi-or-surya-sas
+ hthi-chhat-puja-7
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611832.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T083725Z
+DESCRIPTION:Guru Teg Bahadur's Martyrdom Day (R)
+DTSTART;TZID=Asia/Kolkata:20241124T000000
+DTEND;TZID=Asia/Kolkata:20241124T000000
+LAST-MODIFIED:20230707T083725Z
+SUMMARY:Guru Teg Bahadur's Martyrdom Day (R)
+URL;TYPE=URI:https://www.india.gov.in/content/guru-teg-bahadurs-martyrdom-d
+ ay-12
+END:VEVENT
+BEGIN:VEVENT
+UID:calendar.1611834.field_holiday_date.0@www.india.gov.in
+DTSTAMP:20231227T104049Z
+CREATED:20230707T083913Z
+DESCRIPTION:Christmas Eve (R)
+DTSTART;TZID=Asia/Kolkata:20241224T000000
+DTEND;TZID=Asia/Kolkata:20241224T000000
+LAST-MODIFIED:20230707T083913Z
+SUMMARY:Christmas Eve (R)
+URL;TYPE=URI:https://www.india.gov.in/content/christmas-eve-12
+END:VEVENT
+END:VCALENDAR
